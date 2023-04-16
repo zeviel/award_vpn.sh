@@ -3,6 +3,6 @@ Mobile-API for [award vpn](https://play.google.com/store/apps/details?id=com.awa
 
 ## Example
 ```bash
-source award_vpn.sh
+source ./award_vpn.sh
 get_token
 ```
